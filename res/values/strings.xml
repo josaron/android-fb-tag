@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FBSearch</string>
+    <string name="action_settings">Settings</string>
+    <string name="who_search">Who are you searching for?</string>
+    <string name="pick_friend">Choose a friend</string>
+    <string name="add_friend">Add another friend</string>
+    <string name="title_activity_result">ResultActivity</string>
+	<string name="hello_world">Hello World.</string>
+	<string name="app_id">301841696659115</string>
+	<string name="batch_request">Batch Request</string>
+	<string name="data_request">Request Data</string>
+	
+</resources>
